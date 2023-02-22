@@ -1,8 +1,9 @@
+.env
+
 # macOS
 .DS_Store
 
 # Python
-env
 .venv
 .mypy_cache
 __pycache__
